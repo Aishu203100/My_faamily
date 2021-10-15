@@ -1,0 +1,28 @@
+body
+{
+    color:crimson;
+    background:rgb(137, 191, 236);
+}
+.heading
+{
+    width:80%;
+    font-size:22px;
+    color:rgb(255, 255, 255);
+    background-color:rgb(200, 127, 219);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#camera
+{
+    border:2px  dashed black;
+    width:350px;
+    height:300px;
+    background:rgb(200, 127, 219);
+}
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+
+    color:rgb(160, 101, 175);
+    background-color:rgb(209, 243, 223);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
